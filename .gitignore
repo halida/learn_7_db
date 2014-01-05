@@ -1,0 +1,12 @@
+*.orig
+/log
+/tmp
+/coverage
+*~
+*.bak
+.directory
+*#
+.#*
+.DS_Store
+._*
+
